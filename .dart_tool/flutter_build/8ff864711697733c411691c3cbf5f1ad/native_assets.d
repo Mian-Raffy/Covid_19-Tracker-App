@@ -1,0 +1,1 @@
+ E:\\Flutter-Covid-19-Tracker-App-Tutorials-main\\.dart_tool\\flutter_build\\8ff864711697733c411691c3cbf5f1ad\\native_assets.yaml: 
